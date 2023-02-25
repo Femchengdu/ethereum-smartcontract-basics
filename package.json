@@ -1,7 +1,7 @@
 {
   "name": "inbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic Ethereum Smart Contract Interaction",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
