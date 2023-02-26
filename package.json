@@ -12,8 +12,8 @@
     "@truffle/hdwallet-provider": "^2.1.7",
     "dotenv": "^16.0.3",
     "ganache-cli": "^6.12.2",
-    "mocha": "^9.1.2",
-    "solc": "^0.4.17",
-    "web3": "^1.6.0"
+    "mocha": "^10.2.0",
+    "solc": "0.8.9",
+    "web3": "^1.8.2"
   }
 }
