@@ -20,6 +20,7 @@ const deploy = async () => {
       gas: "1000000",
     });
   console.log("The contract is deployed to.  ", result.options.address);
+  console.log("The contract interface.  ", interface);
   provider.engine.stop();
 };
 
